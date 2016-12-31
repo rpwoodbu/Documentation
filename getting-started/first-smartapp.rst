@@ -153,7 +153,7 @@ The first thing to know is that there are a few different types of SmartApps.
 
 Some SmartApps, called *Service Manager SmartApps*, manage the connection of a cloud-connected or LAN-connected device.
 
-*Solution Module SmartApps* provide a dashboard-like user interface in the SmartThings mobile application[1]_.
+*Solution Module SmartApps* provide a dashboard-like user interface in the SmartThings mobile application [1]_.
 
 The most common type of a SmartApp is one that monitors the user's devices for certain changes (or simply execute on a defined schedule), and then take certain action ("Turn a light on when motion is detected").
 These SmartApps are called *Event-Handler SmartApps*.
